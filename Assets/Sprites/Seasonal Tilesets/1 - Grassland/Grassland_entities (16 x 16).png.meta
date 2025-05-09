@@ -61,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -99,7 +99,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -124,13 +124,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Grassland_entities (16 x 16)_0
+      name: Tiles_Grassland_complete_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 47
-        width: 40
-        height: 47
+        x: 0
+        y: 0
+        width: 112
+        height: 112
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c45df43a950ec0460800000000000000
-      internalID: 7209383779109950796
+      spriteID: b82be373246c1d8c0800000000000000
+      internalID: -3976179008294440309
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grassland_entities (16 x 16)_1
+      name: Tiles_Grassland_complete_1
       rect:
         serializedVersion: 2
-        x: 82
-        y: 47
-        width: 44
-        height: 46
+        x: 0
+        y: 0
+        width: 65
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,162 +161,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 17c3ec3888a80fa50800000000000000
-      internalID: 6552889776755588209
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Grassland_entities (16 x 16)_2
-      rect:
-        serializedVersion: 2
-        x: 148
-        y: 47
-        width: 40
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 24f74c4e7e6d2fd00800000000000000
-      internalID: 1005101958320914242
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Grassland_entities (16 x 16)_3
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 63
-        width: 47
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cfa4c140386b2fcf0800000000000000
-      internalID: -219912757961798916
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Grassland_entities (16 x 16)_4
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 15
-        width: 18
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fa88a0bf728a4d8f0800000000000000
-      internalID: -516603167571801937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Grassland_entities (16 x 16)_5
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 15
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ae8370ade241792c0800000000000000
-      internalID: -4425045917409265430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Grassland_entities (16 x 16)_6
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 15
-        width: 49
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eaf2804423ccd1710800000000000000
-      internalID: 1665711953458769838
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Grassland_entities (16 x 16)_7
-      rect:
-        serializedVersion: 2
-        x: 156
-        y: 15
-        width: 41
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ecfc14660399a88b0800000000000000
-      internalID: -5149134790791671858
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Grassland_entities (16 x 16)_8
-      rect:
-        serializedVersion: 2
-        x: 226
-        y: 15
-        width: 76
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 73964a5f5fdbe7990800000000000000
-      internalID: -7386257474755204809
+      spriteID: e103ced5aeba14f30800000000000000
+      internalID: 4558113320962109470
       vertices: []
       indices: 
       edges: []
@@ -334,7 +180,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tiles_Grassland_complete_0: -3976179008294440309
+      Tiles_Grassland_complete_1: 4558113320962109470
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,7 @@
 fileFormatVersion: 2
 guid: 01efae6d0085319429f31e10056b70a3
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 3110789236329512668
-    second: Falling (32 x 32)_0
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -103,20 +100,20 @@ TextureImporter:
       name: Falling (32 x 32)_0
       rect:
         serializedVersion: 2
-        x: 9
+        x: 0
         y: 0
-        width: 15
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cde778a245ebb2b20800000000000000
-      internalID: 3110789236329512668
+      spriteID: cc4feb507ed552846ae5365f221cf8f0
+      internalID: 720477991
       vertices: []
       indices: 
       edges: []
@@ -125,7 +122,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6f6799106ff289642849ef9302f47683
     internalID: 0
     vertices: []
     indices: 
@@ -134,7 +131,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Falling (32 x 32)_0: 720477991
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,7 @@
+You can't redistribute the code or any of the content of the asset but feel free to use all code and assets included in the asset in your games.
+
+// ---------------------------------
+// Author: Alexandre Brull - Pandaroo
+// https://pandaroo.be
+// ---------------------------------
+// Updated by: Joao Azuaga - razveck
